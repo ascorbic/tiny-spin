@@ -1,0 +1,13 @@
+{
+  "name": "tiny-spin",
+  "version": "1.0.0",
+  "description": "A tiny CLI spinner",
+  "main": "index.js",
+  "author": "Matt Kane <m@mk.gg>",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "repository": "git@github.com:ascorbic/tiny-spin.git"
+}
