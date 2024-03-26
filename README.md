@@ -1,5 +1,7 @@
 # tiny-spin
 
+![600 bytes](https://edge.bundlejs.com/?q=tiny-spin&badge)
+
 ## A tiny, zero-dependency CLI spinner
 
 [Try it out](https://repl.it/@ascorbic/tiny-spin-demo)
